@@ -1,5 +1,9 @@
 # letTalk
 
+## Features
+- Streaming chunk
+- Socket connection
+
 ## Tech Stack
 - [Socket.IO](https://socket.io/)
 
